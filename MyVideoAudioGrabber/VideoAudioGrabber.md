@@ -14,9 +14,9 @@ to video/audio streams , process them with FFmpeg by merging audio video tracks.
 ## Usage of script
 
 - setup your machine with your favourite grabbing tools
-- <p>When create the json be aware of fetch streams URLs from the right tools, (video grabbers plugins etc)</p>
-- <p>Before running check and replace the ```projPath``` variable with your directory path.</p>
-- <p>On runtime, when prompted choose the preferred choice.</p>
+- When create the json be aware of fetch streams URLs from the right tools, (video grabbers plugins etc)
+- Before running check and replace the ```projPath``` variable with your directory path.
+- On runtime, when prompted choose the preferred choice.
 
 ## Disclaimer
 This is not a "plug and play" application so it require some checks before running it.
